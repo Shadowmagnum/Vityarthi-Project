@@ -1,4 +1,5 @@
 ☕ Java Fundamentals Showcase
+
 ✨ Project Summary
 This repository serves as a learning resource and a demonstration of fundamental to advanced Java concepts. Each .java file is an independent example focused on a specific topic, making it easy to navigate and understand. The topics covered include:
 
